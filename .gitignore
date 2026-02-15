@@ -1,0 +1,11 @@
+# Ignore all data files
+data/
+
+# Ignore virtual environment
+venv/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Jupyter temporary checkpoints
+*.ipynb_checkpoints/
